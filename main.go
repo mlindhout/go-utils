@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"go-utils/mystrings"
+	"github.com/mlindhout/go-utils/mystrings"
 )
 
 func main() {
