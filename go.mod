@@ -1,3 +1,3 @@
-module go-utils
+module github.com/mlindhout/go-utils
 
 go 1.20
